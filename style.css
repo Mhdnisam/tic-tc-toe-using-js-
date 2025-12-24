@@ -112,3 +112,9 @@ h1 {
 .hide {
     display: none;
 }
+.x-color {
+    color: #b0413e;
+}
+.o-color {
+    color: #234d70; 
+}
